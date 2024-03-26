@@ -83,6 +83,7 @@
   <ItemGroup>
     <None Include="Assets\GothicUI\Shaders\FluidDouble.shader" />
     <None Include="Assets\MagicArsenal\Readme.txt" />
+    <None Include="Assets\All-In-One\SwordSlash\slash_urp.shader" />
     <None Include="Assets\___www.unityassetcollection.com___.txt" />
     <None Include="Assets\GothicUI\Shaders\BarShader.shader" />
     <None Include="Assets\GothicUI\Shaders\Fluid.shader" />
@@ -916,6 +917,10 @@
       <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.VisualEffectGraph.Runtime">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualEffectGraph.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Runtime">
       <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.dll</HintPath>
       <Private>False</Private>
@@ -978,6 +983,10 @@
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.VisualEffectGraph.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualEffectGraph.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.VisualScripting.Flow">
