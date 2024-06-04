@@ -59,34 +59,86 @@
     <UnityVersion>2022.3.14f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Analyzer Include="C:\Users\vuvub\.vscode\extensions\visualstudiotoolsforunity.vstuc-1.0.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
+    <Analyzer Include="C:\Users\vuvub\.vscode\extensions\visualstudiotoolsforunity.vstuc-1.0.2\Analyzers\Microsoft.Unity.Analyzers.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.14f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.SourceGenerators.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.14f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\GothicUI\Scripts\HPFlowController.cs" />
-    <Compile Include="Assets\MagicArsenal\Effects\Scripts\MagicBeamStatic.cs" />
-    <Compile Include="Assets\GothicUI\Scripts\DayDurationController.cs" />
+    <Compile Include="Assets\Hovl Studio\HSFiles\Scripts\HS_ProjectileMover.cs" />
+    <Compile Include="Assets\TestRotation.cs" />
+    <Compile Include="Assets\Hovl Studio\HSFiles\Scripts\Hovl_LaserDemo.cs" />
     <Compile Include="Assets\MagicArsenal\Demo\Scripts\MagicFireProjectile.cs" />
     <Compile Include="Assets\MagicArsenal\Demo\Scripts\MagicLoopScript.cs" />
-    <Compile Include="Assets\MagicArsenal\Demo\Scripts\MagicEffectCycler.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
+    <Compile Include="Assets\TheOneWhoBeingChanged.cs" />
     <Compile Include="Assets\MagicArsenal\Effects\Scripts\MagicLightFlicker.cs" />
+    <Compile Include="Assets\Hovl Studio\HSFiles\Scripts\HS_EffectSound.cs" />
+    <Compile Include="Assets\Hovl Studio\HSFiles\Scripts\For demo scenes\HS_RaycastInstance.cs" />
+    <Compile Include="Assets\Hovl Studio\HSFiles\Scripts\HS_ProjectileMover2D.cs" />
+    <Compile Include="Assets\Hovl Studio\HSFiles\Scripts\For demo scenes\HS_DemoShooting.cs" />
+    <Compile Include="Assets\TheOneWhoChange.cs" />
+    <Compile Include="Assets\MagicArsenal\Demo\Scripts\MagicProjectileScript.cs" />
+    <Compile Include="Assets\Hovl Studio\HSFiles\Scripts\HS_ParticleCollisionInstance.cs" />
+    <Compile Include="Assets\TestCollider.cs" />
+    <Compile Include="Assets\MagicArsenal\Effects\Scripts\MagicLightFade.cs" />
+    <Compile Include="Assets\GothicUI\Scripts\HPFlowController.cs" />
+    <Compile Include="Assets\MagicArsenal\Effects\Scripts\MagicBeamStatic.cs" />
+    <Compile Include="Assets\Hovl Studio\HSFiles\Scripts\Hovl_DemoLasers.cs" />
+    <Compile Include="Assets\GothicUI\Scripts\DayDurationController.cs" />
+    <Compile Include="Assets\MagicArsenal\Demo\Scripts\MagicEffectCycler.cs" />
     <Compile Include="Assets\MagicArsenal\Demo\Scripts\MagicDragMouseOrbit.cs" />
+    <Compile Include="Assets\Hovl Studio\HSFiles\Scripts\Hovl_Laser.cs" />
     <Compile Include="Assets\MagicArsenal\Demo\Scripts\MagicButtonScript.cs" />
     <Compile Include="Assets\MagicArsenal\Demo\Scripts\MagicBeamScript.cs" />
-    <Compile Include="Assets\MagicArsenal\Demo\Scripts\MagicProjectileScript.cs" />
+    <Compile Include="Assets\Hovl Studio\HSFiles\Scripts\For demo scenes\HS_CameraHolder.cs" />
     <Compile Include="Assets\MagicArsenal\Effects\Scripts\MagicRotation.cs" />
+    <Compile Include="Assets\Hovl Studio\HSFiles\Scripts\For demo scenes\HS_DemoShooting2D.cs" />
     <Compile Include="Assets\MagicArsenal\Demo\Scripts\MagicLoadSceneOnClick.cs" />
-    <Compile Include="Assets\MagicArsenal\Effects\Scripts\MagicLightFade.cs" />
+    <Compile Include="Assets\Hovl Studio\HSFiles\Scripts\Hovl_Laser2.cs" />
+    <Compile Include="Assets\Hovl Studio\HSFiles\Scripts\HS_HittedObject.cs" />
+    <Compile Include="Assets\Hovl Studio\HSFiles\Scripts\HS_Rotator.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\GothicUI\Shaders\FluidDouble.shader" />
+    <None Include="Assets\Hovl Studio\AAA Projectiles Vol 1\Demo scenes\Demo files\Readme.txt" />
     <None Include="Assets\MagicArsenal\Readme.txt" />
+    <None Include="Assets\Hovl Studio\Sword slash VFX\Demo scene\HDRP and URP.txt" />
     <None Include="Assets\All-In-One\SwordSlash\slash_urp.shader" />
     <None Include="Assets\___www.unityassetcollection.com___.txt" />
+    <None Include="Assets\Hovl Studio\AAA Projectiles Vol 1\Prefabs\Readme.txt" />
+    <None Include="Assets\Hovl Studio\AOE Magic spells Vol.1\Demo AOE skills\Readme.txt" />
+    <None Include="Assets\Hovl Studio\AAA Projectiles Vol 1\Demo scenes\Demo files\HS_DemoShooting pool example.txt" />
+    <None Include="Assets\Hovl Studio\HSFiles\Shaders\Lit_CenterGlow.shader" />
+    <None Include="Assets\Hovl Studio\HSFiles\Shaders\SmoothSmoke.shader" />
+    <None Include="Assets\Hovl Studio\RPG VFX Bundle\Prefabs\HDRP and URP(LWRP).txt" />
+    <None Include="Assets\Hovl Studio\Magic circles\Demo magic circles Vol 1\Readme.txt" />
+    <None Include="Assets\Hovl Studio\HSFiles\Shaders\DissolveNoise.shader" />
     <None Include="Assets\GothicUI\Shaders\BarShader.shader" />
+    <None Include="Assets\Material\NewUnlitShader.shader" />
+    <None Include="Assets\Hovl Studio\3D Lasers Pack\Demo scene lasers\If you want to use lasers in 2D.txt" />
+    <None Include="Assets\Hovl Studio\HSFiles\Shaders\Add_Fresnel.shader" />
+    <None Include="Assets\Hovl Studio\HSFiles\Shaders\Ice.shader" />
+    <None Include="Assets\Hovl Studio\HSFiles\Shaders\Distortion.shader" />
+    <None Include="Assets\Hovl Studio\HSFiles\Shaders\Blend_TwoSides.shader" />
+    <None Include="Assets\Hovl Studio\HSFiles\Shaders\Electricity.shader" />
+    <None Include="Assets\Hovl Studio\HSFiles\Shaders\Blend_CenterGlow.shader" />
     <None Include="Assets\GothicUI\Shaders\Fluid.shader" />
+    <None Include="Assets\Hovl Studio\HSFiles\Shaders\Blend_Normals.shader" />
+    <None Include="Assets\Hovl Studio\Render Pipelines support\Documentation.txt" />
+    <None Include="Assets\Hovl Studio\Sword slash VFX\Demo scene\Readme.txt" />
+    <None Include="Assets\Hovl Studio\AOE Magic spells Vol.1\Prefabs\Readme.txt" />
+    <None Include="Assets\Hovl Studio\3D Lasers Pack\Demo scene lasers\Readme.txt" />
+    <None Include="Assets\Hovl Studio\HSFiles\Shaders\LightGlow.shader" />
+    <None Include="Assets\Hovl Studio\HSFiles\Shaders\Lightning.shader" />
+    <None Include="Assets\Hovl Studio\Magic circles\Prefabs\Loop version\How to use.txt" />
+    <None Include="Assets\Hovl Studio\HSFiles\Shaders\BlendDistort.shader" />
+    <None Include="Assets\Hovl Studio\HSFiles\Shaders\AddTrail.shader" />
+    <None Include="Assets\Hovl Studio\HSFiles\Shaders\Scroll.shader" />
+    <None Include="Assets\Hovl Studio\AAA Projectiles Vol 1\Demo scenes\Demo files\HS_ProjectileMover pool example.txt" />
+    <None Include="Assets\Hovl Studio\HSFiles\Shaders\Add_CenterGlow.shader" />
+    <None Include="Assets\Hovl Studio\AOE Magic spells Vol.1\Demo AOE skills\HDRP and URP(LWRP).txt" />
+    <None Include="Assets\Hovl Studio\HSFiles\Shaders\Explosion.shader" />
+    <None Include="Assets\Hovl Studio\HSFiles\Shaders\SwordSlash.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -421,8 +473,16 @@
       <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.14f1\Editor\Data\Managed\UnityEngine\UnityEditor.UnityConnectModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.Collections.LowLevel.ILSupport">
+      <HintPath>Library\PackageCache\com.unity.collections@1.5.1\Unity.Collections.LowLevel.ILSupport\Unity.Collections.LowLevel.ILSupport.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
       <HintPath>Library\PackageCache\com.unity.visualscripting@1.9.1\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Mono.Cecil">
+      <HintPath>Library\PackageCache\com.unity.nuget.mono-cecil@1.11.4\Mono.Cecil.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="netstandard">
@@ -913,6 +973,10 @@
       <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.14f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Xml.Serialization.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="glTFast.dots">
+      <HintPath>Library\ScriptAssemblies\glTFast.dots.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
       <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
       <Private>False</Private>
@@ -929,12 +993,16 @@
       <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.Burst.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.Burst.Editor.dll</HintPath>
+    <Reference Include="glTFast.Editor">
+      <HintPath>Library\ScriptAssemblies\glTFast.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.Burst">
       <HintPath>Library\ScriptAssemblies\Unity.Burst.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Burst.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Burst.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.PlasticSCM.Editor">
@@ -965,16 +1033,20 @@
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Core.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="UnityEngine.UI">
-      <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="Unity.VisualScripting.Core.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.2D.Sprite.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Config.Runtime">
@@ -1017,8 +1089,20 @@
       <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.Collections">
+      <HintPath>Library\ScriptAssemblies\Unity.Collections.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="glTFast">
+      <HintPath>Library\ScriptAssemblies\glTFast.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.VisualScripting.State.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Collections.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Collections.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="PPv2URPConverters">
