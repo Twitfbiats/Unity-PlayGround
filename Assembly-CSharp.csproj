@@ -65,6 +65,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Hovl Studio\HSFiles\Scripts\HS_ProjectileMover.cs" />
+    <Compile Include="Assets\All-In-One\VFX\Spawner.cs" />
     <Compile Include="Assets\TestRotation.cs" />
     <Compile Include="Assets\Hovl Studio\HSFiles\Scripts\Hovl_LaserDemo.cs" />
     <Compile Include="Assets\MagicArsenal\Demo\Scripts\MagicFireProjectile.cs" />
@@ -105,6 +106,7 @@
     <None Include="Assets\Hovl Studio\Sword slash VFX\Demo scene\HDRP and URP.txt" />
     <None Include="Assets\All-In-One\SwordSlash\slash_urp.shader" />
     <None Include="Assets\___www.unityassetcollection.com___.txt" />
+    <None Include="Assets\All-In-One\New\Test.shader" />
     <None Include="Assets\Hovl Studio\AAA Projectiles Vol 1\Prefabs\Readme.txt" />
     <None Include="Assets\Hovl Studio\AOE Magic spells Vol.1\Demo AOE skills\Readme.txt" />
     <None Include="Assets\Hovl Studio\AAA Projectiles Vol 1\Demo scenes\Demo files\HS_DemoShooting pool example.txt" />
