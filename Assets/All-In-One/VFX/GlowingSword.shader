@@ -13,7 +13,7 @@ Shader "Test/GlowingSword"
     }
     SubShader
     {
-        Tags { "Queue" = "Transparent" }
+        Tags { "RenderType"="Transparent" "Queue"="Transparent" }
         Blend SrcAlpha OneMinusSrcAlpha
 
         Pass

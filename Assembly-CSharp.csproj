@@ -135,6 +135,7 @@
     <None Include="Assets\Hovl Studio\HSFiles\Shaders\LightGlow.shader" />
     <None Include="Assets\Hovl Studio\HSFiles\Shaders\Lightning.shader" />
     <None Include="Assets\Hovl Studio\Magic circles\Prefabs\Loop version\How to use.txt" />
+    <None Include="Assets\All-In-One\VFX\Slash\Slash.shader" />
     <None Include="Assets\Hovl Studio\HSFiles\Shaders\BlendDistort.shader" />
     <None Include="Assets\Hovl Studio\HSFiles\Shaders\AddTrail.shader" />
     <None Include="Assets\Hovl Studio\HSFiles\Shaders\Scroll.shader" />
